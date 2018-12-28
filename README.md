@@ -5,5 +5,5 @@ A C program written for Mechanics of Programming. Simulates the segregation of t
 ### Pre-Segregation Prompt:
 ![Unsegregated Prompt](images/unsegregatedprompt.PNG)
 
-### Post-Segregation Prompt
+### Post-Segregation Prompt:
 ![Segregated Prompt](images/segregatedprompt.PNG)
